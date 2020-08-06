@@ -3,16 +3,16 @@
 *{
 
     font-family: 'Indie Flower', cursive;
-    text-align: center;
-    border: 1px solid black;
+    
 }
 
 .header{
 
     height: 100vh;
+   
 }
 
-.header_img{
+.header__img{
 
     margin: 0;
     height: 100%;
@@ -24,3 +24,9 @@
     width: 80%;
     margin: 0 auto;
 }
+
+a{
+    display: block;
+    text-align: center;
+}
+
